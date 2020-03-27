@@ -1,1 +1,13 @@
-// Empty
+{
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "window.zoomLevel": 0,
+    "sync.gist": "",
+    "sync.autoUpload": true,
+    "sync.forceUpload": false,
+    "sync.quietSync": true
+}
