@@ -161,6 +161,16 @@
   },
   {
     "metadata": {
+      "id": "58bfd79f-7b8f-47c9-949f-6db11c6450a4",
+      "publisherId": "earshinov.sort-lines-by-selection",
+      "publisherDisplayName": "earshinov"
+    },
+    "name": "sort-lines-by-selection",
+    "publisher": "earshinov",
+    "version": "1.0.0"
+  },
+  {
+    "metadata": {
       "id": "6623619a-676d-4cde-943f-a3c193b44fc0",
       "publisherId": "ChakrounAnas.turbo-console-log",
       "publisherDisplayName": "ChakrounAnas"
@@ -227,6 +237,6 @@
     },
     "name": "vscode-theme-onedark",
     "publisher": "akamud",
-    "version": "2.2.0"
+    "version": "2.2.1"
   }
 ]
