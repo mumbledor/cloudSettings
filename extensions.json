@@ -87,7 +87,7 @@
     },
     "name": "angularjs-template-autocomplete",
     "publisher": "michaelisom",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   {
     "metadata": {
@@ -198,6 +198,16 @@
     "name": "vscode-css-peek",
     "publisher": "pranaygp",
     "version": "3.0.2"
+  },
+  {
+    "metadata": {
+      "id": "eedfd044-d5ac-4389-973d-3ac1fdb98ad5",
+      "publisherId": "kisstkondoros.vscode-gutter-preview",
+      "publisherDisplayName": "kisstkondoros"
+    },
+    "name": "vscode-gutter-preview",
+    "publisher": "kisstkondoros",
+    "version": "0.26.1"
   },
   {
     "metadata": {
