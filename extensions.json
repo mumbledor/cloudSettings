@@ -87,7 +87,7 @@
     },
     "name": "angularjs-template-autocomplete",
     "publisher": "michaelisom",
-    "version": "1.0.7"
+    "version": "1.0.9"
   },
   {
     "metadata": {
@@ -97,7 +97,27 @@
     },
     "name": "atom-keybindings",
     "publisher": "ms-vscode",
-    "version": "3.0.6"
+    "version": "3.0.8"
+  },
+  {
+    "metadata": {
+      "id": "7a0110bb-231a-4598-aa1b-0769ea46d28b",
+      "publisherId": "aaron-bond.better-comments",
+      "publisherDisplayName": "aaron-bond"
+    },
+    "name": "better-comments",
+    "publisher": "aaron-bond",
+    "version": "2.0.5"
+  },
+  {
+    "metadata": {
+      "id": "5a6e2b21-1d61-4acd-b31b-907f9c23f18a",
+      "publisherId": "CoenraadS.bracket-pair-colorizer-2",
+      "publisherDisplayName": "CoenraadS"
+    },
+    "name": "bracket-pair-colorizer-2",
+    "publisher": "CoenraadS",
+    "version": "0.0.29"
   },
   {
     "metadata": {
@@ -108,6 +128,26 @@
     "name": "code-settings-sync",
     "publisher": "Shan",
     "version": "3.4.3"
+  },
+  {
+    "metadata": {
+      "id": "1ec62ca5-d7f9-4ddb-a882-e8d018c0aefd",
+      "publisherId": "msjsdiag.debugger-for-chrome",
+      "publisherDisplayName": "msjsdiag"
+    },
+    "name": "debugger-for-chrome",
+    "publisher": "msjsdiag",
+    "version": "4.12.6"
+  },
+  {
+    "metadata": {
+      "id": "532533c9-a894-4a58-9eee-bbfbe7c06f71",
+      "publisherId": "mikestead.dotenv",
+      "publisherDisplayName": "mikestead"
+    },
+    "name": "dotenv",
+    "publisher": "mikestead",
+    "version": "1.0.1"
   },
   {
     "metadata": {
@@ -131,6 +171,26 @@
   },
   {
     "metadata": {
+      "id": "a2cec723-5349-460d-9de9-0fd1f8d3456f",
+      "publisherId": "xabikos.JavaScriptSnippets",
+      "publisherDisplayName": "xabikos"
+    },
+    "name": "JavaScriptSnippets",
+    "publisher": "xabikos",
+    "version": "1.8.0"
+  },
+  {
+    "metadata": {
+      "id": "74f34f8a-245e-4133-8617-a3a94b5a417e",
+      "publisherId": "cmstead.jsrefactor",
+      "publisherDisplayName": "cmstead"
+    },
+    "name": "jsrefactor",
+    "publisher": "cmstead",
+    "version": "2.20.6"
+  },
+  {
+    "metadata": {
       "id": "5db78037-f674-459f-a236-db622c427c5b",
       "publisherId": "PKief.material-icon-theme",
       "publisherDisplayName": "PKief"
@@ -148,6 +208,16 @@
     "name": "npm-intellisense",
     "publisher": "christian-kohler",
     "version": "1.3.0"
+  },
+  {
+    "metadata": {
+      "id": "a41c1549-4053-44d4-bf30-60fc809b4a86",
+      "publisherId": "christian-kohler.path-intellisense",
+      "publisherDisplayName": "christian-kohler"
+    },
+    "name": "path-intellisense",
+    "publisher": "christian-kohler",
+    "version": "1.4.2"
   },
   {
     "metadata": {
@@ -171,6 +241,26 @@
   },
   {
     "metadata": {
+      "id": "ee108066-df8b-43ae-9a83-e6c11400a759",
+      "publisherId": "jasonnutter.search-node-modules",
+      "publisherDisplayName": "jasonnutter"
+    },
+    "name": "search-node-modules",
+    "publisher": "jasonnutter",
+    "version": "1.3.0"
+  },
+  {
+    "metadata": {
+      "id": "5fb19573-2183-4cf2-b53d-0fb869dae7ae",
+      "publisherId": "foxundermoon.shell-format",
+      "publisherDisplayName": "foxundermoon"
+    },
+    "name": "shell-format",
+    "publisher": "foxundermoon",
+    "version": "7.0.1"
+  },
+  {
+    "metadata": {
       "id": "d3d8c87e-6b24-4721-9b69-bb7934bbd832",
       "publisherId": "myax.short-js-doc",
       "publisherDisplayName": "myax"
@@ -181,6 +271,16 @@
   },
   {
     "metadata": {
+      "id": "a84825e8-5f04-4988-b85a-4942e795bcbe",
+      "publisherId": "burkeholland.simple-react-snippets",
+      "publisherDisplayName": "burkeholland"
+    },
+    "name": "simple-react-snippets",
+    "publisher": "burkeholland",
+    "version": "1.2.2"
+  },
+  {
+    "metadata": {
       "id": "58bfd79f-7b8f-47c9-949f-6db11c6450a4",
       "publisherId": "earshinov.sort-lines-by-selection",
       "publisherDisplayName": "earshinov"
@@ -188,6 +288,16 @@
     "name": "sort-lines-by-selection",
     "publisher": "earshinov",
     "version": "1.0.0"
+  },
+  {
+    "metadata": {
+      "id": "f5d7ffda-c1d6-4070-ba80-803c705a1ee6",
+      "publisherId": "monokai.theme-monokai-pro-vscode",
+      "publisherDisplayName": "monokai"
+    },
+    "name": "theme-monokai-pro-vscode",
+    "publisher": "monokai",
+    "version": "1.1.15"
   },
   {
     "metadata": {
@@ -251,6 +361,26 @@
   },
   {
     "metadata": {
+      "id": "c46b0018-f317-4b6c-a785-d2039b27338f",
+      "publisherId": "wix.vscode-import-cost",
+      "publisherDisplayName": "wix"
+    },
+    "name": "vscode-import-cost",
+    "publisher": "wix",
+    "version": "2.12.0"
+  },
+  {
+    "metadata": {
+      "id": "daf8b44d-8aae-4da2-80c5-1f770219f643",
+      "publisherId": "DavidAnson.vscode-markdownlint",
+      "publisherDisplayName": "DavidAnson"
+    },
+    "name": "vscode-markdownlint",
+    "publisher": "DavidAnson",
+    "version": "0.35.1"
+  },
+  {
+    "metadata": {
       "id": "efc33846-2498-43d7-9699-47d0a7741345",
       "publisherId": "attilabuti.vscode-mjml",
       "publisherDisplayName": "attilabuti"
@@ -258,6 +388,16 @@
     "name": "vscode-mjml",
     "publisher": "attilabuti",
     "version": "1.6.0"
+  },
+  {
+    "metadata": {
+      "id": "ae9e3eb0-3357-4cc0-90ee-598d2d384757",
+      "publisherId": "eg2.vscode-npm-script",
+      "publisherDisplayName": "eg2"
+    },
+    "name": "vscode-npm-script",
+    "publisher": "eg2",
+    "version": "0.3.11"
   },
   {
     "metadata": {
