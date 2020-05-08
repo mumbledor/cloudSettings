@@ -221,6 +221,16 @@
   },
   {
     "metadata": {
+      "id": "945fe310-535c-4f65-b93d-b93d70401ab8",
+      "publisherId": "numso.prettier-standard-vscode",
+      "publisherDisplayName": "numso"
+    },
+    "name": "prettier-standard-vscode",
+    "publisher": "numso",
+    "version": "0.6.0"
+  },
+  {
+    "metadata": {
       "id": "03e014a0-a915-4672-92b3-77e5a6ad72df",
       "publisherId": "searKing.preview-vscode",
       "publisherDisplayName": "searKing"
@@ -228,6 +238,26 @@
     "name": "preview-vscode",
     "publisher": "searKing",
     "version": "2.1.0"
+  },
+  {
+    "metadata": {
+      "id": "25e1179e-d4cc-4694-ac65-25b0c48be869",
+      "publisherId": "wrenchingdev.quantum-leap",
+      "publisherDisplayName": "wrenchingdev"
+    },
+    "name": "quantum-leap",
+    "publisher": "wrenchingdev",
+    "version": "0.4.0"
+  },
+  {
+    "metadata": {
+      "id": "1c732fae-f0bb-418a-9e20-96f86bdabc16",
+      "publisherId": "wrenchingdev.quantum-node-pack",
+      "publisherDisplayName": "wrenchingdev"
+    },
+    "name": "quantum-node-pack",
+    "publisher": "wrenchingdev",
+    "version": "0.3.0"
   },
   {
     "metadata": {
