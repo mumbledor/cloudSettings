@@ -111,13 +111,23 @@
   },
   {
     "metadata": {
+      "id": "f583eafd-aa0d-4ccb-8f44-d1e610389660",
+      "publisherId": "CoenraadS.bracket-pair-colorizer",
+      "publisherDisplayName": "CoenraadS"
+    },
+    "name": "bracket-pair-colorizer",
+    "publisher": "CoenraadS",
+    "version": "1.0.61"
+  },
+  {
+    "metadata": {
       "id": "5a6e2b21-1d61-4acd-b31b-907f9c23f18a",
       "publisherId": "CoenraadS.bracket-pair-colorizer-2",
       "publisherDisplayName": "CoenraadS"
     },
     "name": "bracket-pair-colorizer-2",
     "publisher": "CoenraadS",
-    "version": "0.0.29"
+    "version": "0.1.2"
   },
   {
     "metadata": {
@@ -361,16 +371,6 @@
   },
   {
     "metadata": {
-      "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
-      "publisherId": "dbaeumer.vscode-eslint",
-      "publisherDisplayName": "dbaeumer"
-    },
-    "name": "vscode-eslint",
-    "publisher": "dbaeumer",
-    "version": "2.1.5"
-  },
-  {
-    "metadata": {
       "id": "eedfd044-d5ac-4389-973d-3ac1fdb98ad5",
       "publisherId": "kisstkondoros.vscode-gutter-preview",
       "publisherDisplayName": "kisstkondoros"
@@ -437,7 +437,7 @@
     },
     "name": "vscode-peacock",
     "publisher": "johnpapa",
-    "version": "3.7.0"
+    "version": "3.7.2"
   },
   {
     "metadata": {
