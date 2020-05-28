@@ -111,26 +111,6 @@
   },
   {
     "metadata": {
-      "id": "f583eafd-aa0d-4ccb-8f44-d1e610389660",
-      "publisherId": "CoenraadS.bracket-pair-colorizer",
-      "publisherDisplayName": "CoenraadS"
-    },
-    "name": "bracket-pair-colorizer",
-    "publisher": "CoenraadS",
-    "version": "1.0.61"
-  },
-  {
-    "metadata": {
-      "id": "5a6e2b21-1d61-4acd-b31b-907f9c23f18a",
-      "publisherId": "CoenraadS.bracket-pair-colorizer-2",
-      "publisherDisplayName": "CoenraadS"
-    },
-    "name": "bracket-pair-colorizer-2",
-    "publisher": "CoenraadS",
-    "version": "0.1.2"
-  },
-  {
-    "metadata": {
       "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
       "publisherId": "Shan.code-settings-sync",
       "publisherDisplayName": "Shan"
@@ -147,7 +127,7 @@
     },
     "name": "debugger-for-chrome",
     "publisher": "msjsdiag",
-    "version": "4.12.6"
+    "version": "4.12.8"
   },
   {
     "metadata": {
@@ -237,7 +217,7 @@
     },
     "name": "prettier-standard-vscode",
     "publisher": "numso",
-    "version": "0.6.0"
+    "version": "0.8.1"
   },
   {
     "metadata": {
@@ -407,7 +387,7 @@
     },
     "name": "vscode-markdownlint",
     "publisher": "DavidAnson",
-    "version": "0.35.1"
+    "version": "0.35.2"
   },
   {
     "metadata": {
@@ -427,7 +407,7 @@
     },
     "name": "vscode-npm-script",
     "publisher": "eg2",
-    "version": "0.3.11"
+    "version": "0.3.12"
   },
   {
     "metadata": {
