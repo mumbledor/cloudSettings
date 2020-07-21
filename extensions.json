@@ -107,7 +107,7 @@
     },
     "name": "better-comments",
     "publisher": "aaron-bond",
-    "version": "2.0.5"
+    "version": "2.1.0"
   },
   {
     "metadata": {
@@ -127,7 +127,7 @@
     },
     "name": "debugger-for-chrome",
     "publisher": "msjsdiag",
-    "version": "4.12.8"
+    "version": "4.12.9"
   },
   {
     "metadata": {
@@ -147,7 +147,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "10.2.1"
+    "version": "10.2.2"
   },
   {
     "metadata": {
@@ -181,13 +181,23 @@
   },
   {
     "metadata": {
+      "id": "98790d67-10fa-497c-9113-f6c7489207b2",
+      "publisherId": "yzhang.markdown-all-in-one",
+      "publisherDisplayName": "yzhang"
+    },
+    "name": "markdown-all-in-one",
+    "publisher": "yzhang",
+    "version": "3.1.0"
+  },
+  {
+    "metadata": {
       "id": "5db78037-f674-459f-a236-db622c427c5b",
       "publisherId": "PKief.material-icon-theme",
       "publisherDisplayName": "PKief"
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "4.1.0"
+    "version": "4.2.0"
   },
   {
     "metadata": {
@@ -207,7 +217,7 @@
     },
     "name": "path-intellisense",
     "publisher": "christian-kohler",
-    "version": "1.4.2"
+    "version": "2.2.1"
   },
   {
     "metadata": {
@@ -297,7 +307,7 @@
     },
     "name": "simple-react-snippets",
     "publisher": "burkeholland",
-    "version": "1.2.2"
+    "version": "1.2.3"
   },
   {
     "metadata": {
@@ -317,7 +327,7 @@
     },
     "name": "theme-monokai-pro-vscode",
     "publisher": "monokai",
-    "version": "1.1.15"
+    "version": "1.1.17"
   },
   {
     "metadata": {
@@ -357,7 +367,7 @@
     },
     "name": "vscode-gutter-preview",
     "publisher": "kisstkondoros",
-    "version": "0.26.1"
+    "version": "0.26.2"
   },
   {
     "metadata": {
@@ -387,7 +397,7 @@
     },
     "name": "vscode-markdownlint",
     "publisher": "DavidAnson",
-    "version": "0.36.0"
+    "version": "0.36.1"
   },
   {
     "metadata": {
@@ -427,6 +437,16 @@
     },
     "name": "vscode-theme-onedark",
     "publisher": "akamud",
-    "version": "2.2.1"
+    "version": "2.2.2"
+  },
+  {
+    "metadata": {
+      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
+      "publisherId": "ms-vsliveshare.vsliveshare",
+      "publisherDisplayName": "ms-vsliveshare"
+    },
+    "name": "vsliveshare",
+    "publisher": "ms-vsliveshare",
+    "version": "1.0.2478"
   }
 ]
