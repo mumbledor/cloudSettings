@@ -9,5 +9,6 @@
     "sync.gist": "bcd1927b048bb4c138fd5bc1e7b516dd",
     "sync.autoUpload": true,
     "sync.forceUpload": false,
-    "sync.quietSync": true
+    "sync.quietSync": true,
+    "explorer.confirmDelete": false
 }
