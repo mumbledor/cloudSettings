@@ -357,7 +357,7 @@
     },
     "name": "vscode-css-peek",
     "publisher": "pranaygp",
-    "version": "3.0.2"
+    "version": "4.0.0"
   },
   {
     "metadata": {
@@ -397,7 +397,7 @@
     },
     "name": "vscode-markdownlint",
     "publisher": "DavidAnson",
-    "version": "0.36.1"
+    "version": "0.36.2"
   },
   {
     "metadata": {
