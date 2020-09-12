@@ -197,7 +197,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "4.2.0"
+    "version": "4.3.0"
   },
   {
     "metadata": {
@@ -207,7 +207,7 @@
     },
     "name": "npm-intellisense",
     "publisher": "christian-kohler",
-    "version": "1.3.0"
+    "version": "1.3.1"
   },
   {
     "metadata": {
@@ -217,7 +217,7 @@
     },
     "name": "path-intellisense",
     "publisher": "christian-kohler",
-    "version": "2.2.1"
+    "version": "2.3.0"
   },
   {
     "metadata": {
@@ -258,6 +258,16 @@
     "name": "quantum-node-pack",
     "publisher": "wrenchingdev",
     "version": "0.3.0"
+  },
+  {
+    "metadata": {
+      "id": "c807e072-5951-4a01-9542-450f946c7ec1",
+      "publisherId": "xabikos.ReactSnippets",
+      "publisherDisplayName": "xabikos"
+    },
+    "name": "ReactSnippets",
+    "publisher": "xabikos",
+    "version": "2.4.0"
   },
   {
     "metadata": {
