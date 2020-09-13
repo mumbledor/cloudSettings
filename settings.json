@@ -10,5 +10,6 @@
     "sync.autoUpload": true,
     "sync.forceUpload": false,
     "sync.quietSync": true,
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "editor.detectIndentation": false
 }
