@@ -121,6 +121,16 @@
   },
   {
     "metadata": {
+      "id": "bce78737-8848-49f7-a27d-97004928fe41",
+      "publisherId": "hediet.debug-visualizer",
+      "publisherDisplayName": "hediet"
+    },
+    "name": "debug-visualizer",
+    "publisher": "hediet",
+    "version": "2.0.6"
+  },
+  {
+    "metadata": {
       "id": "1ec62ca5-d7f9-4ddb-a882-e8d018c0aefd",
       "publisherId": "msjsdiag.debugger-for-chrome",
       "publisherDisplayName": "msjsdiag"
