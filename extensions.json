@@ -417,7 +417,7 @@
     },
     "name": "vscode-markdownlint",
     "publisher": "DavidAnson",
-    "version": "0.37.1"
+    "version": "0.37.0"
   },
   {
     "metadata": {
