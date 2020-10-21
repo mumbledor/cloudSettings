@@ -5,7 +5,7 @@
     "atomKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": true,
-    "window.zoomLevel": 4,
+    "window.zoomLevel": 0,
     "sync.gist": "bcd1927b048bb4c138fd5bc1e7b516dd",
     "sync.autoUpload": true,
     "sync.forceUpload": false,
