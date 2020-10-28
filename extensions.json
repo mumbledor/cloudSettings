@@ -417,7 +417,7 @@
     },
     "name": "vscode-markdownlint",
     "publisher": "DavidAnson",
-    "version": "0.37.1"
+    "version": "0.37.2"
   },
   {
     "metadata": {
@@ -467,6 +467,6 @@
     },
     "name": "vsliveshare",
     "publisher": "ms-vsliveshare",
-    "version": "1.0.3014"
+    "version": "1.0.3046"
   }
 ]
