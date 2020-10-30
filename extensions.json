@@ -211,6 +211,16 @@
   },
   {
     "metadata": {
+      "id": "10a4a8bc-61de-4a31-9379-f0ac4f306b71",
+      "publisherId": "jacoob.markdown-helper",
+      "publisherDisplayName": "jacoob"
+    },
+    "name": "markdown-helper",
+    "publisher": "jacoob",
+    "version": "1.1.1"
+  },
+  {
+    "metadata": {
       "id": "2fb9491e-d250-48e4-b23e-cdbb81d655cf",
       "publisherId": "AlanWalk.markdown-toc",
       "publisherDisplayName": "AlanWalk"
