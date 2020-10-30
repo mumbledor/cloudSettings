@@ -201,6 +201,16 @@
   },
   {
     "metadata": {
+      "id": "41c03ed0-b7b8-4476-8d01-926a7e041e69",
+      "publisherId": "jebbs.markdown-extended",
+      "publisherDisplayName": "jebbs"
+    },
+    "name": "markdown-extended",
+    "publisher": "jebbs",
+    "version": "1.0.18"
+  },
+  {
+    "metadata": {
       "id": "2fb9491e-d250-48e4-b23e-cdbb81d655cf",
       "publisherId": "AlanWalk.markdown-toc",
       "publisherDisplayName": "AlanWalk"
