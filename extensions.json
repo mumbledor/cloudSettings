@@ -191,46 +191,6 @@
   },
   {
     "metadata": {
-      "id": "98790d67-10fa-497c-9113-f6c7489207b2",
-      "publisherId": "yzhang.markdown-all-in-one",
-      "publisherDisplayName": "yzhang"
-    },
-    "name": "markdown-all-in-one",
-    "publisher": "yzhang",
-    "version": "3.3.0"
-  },
-  {
-    "metadata": {
-      "id": "41c03ed0-b7b8-4476-8d01-926a7e041e69",
-      "publisherId": "jebbs.markdown-extended",
-      "publisherDisplayName": "jebbs"
-    },
-    "name": "markdown-extended",
-    "publisher": "jebbs",
-    "version": "1.0.18"
-  },
-  {
-    "metadata": {
-      "id": "10a4a8bc-61de-4a31-9379-f0ac4f306b71",
-      "publisherId": "jacoob.markdown-helper",
-      "publisherDisplayName": "jacoob"
-    },
-    "name": "markdown-helper",
-    "publisher": "jacoob",
-    "version": "1.1.1"
-  },
-  {
-    "metadata": {
-      "id": "2fb9491e-d250-48e4-b23e-cdbb81d655cf",
-      "publisherId": "AlanWalk.markdown-toc",
-      "publisherDisplayName": "AlanWalk"
-    },
-    "name": "markdown-toc",
-    "publisher": "AlanWalk",
-    "version": "1.5.6"
-  },
-  {
-    "metadata": {
       "id": "5db78037-f674-459f-a236-db622c427c5b",
       "publisherId": "PKief.material-icon-theme",
       "publisherDisplayName": "PKief"
@@ -441,16 +401,6 @@
   },
   {
     "metadata": {
-      "id": "daf8b44d-8aae-4da2-80c5-1f770219f643",
-      "publisherId": "DavidAnson.vscode-markdownlint",
-      "publisherDisplayName": "DavidAnson"
-    },
-    "name": "vscode-markdownlint",
-    "publisher": "DavidAnson",
-    "version": "0.37.2"
-  },
-  {
-    "metadata": {
       "id": "efc33846-2498-43d7-9699-47d0a7741345",
       "publisherId": "attilabuti.vscode-mjml",
       "publisherDisplayName": "attilabuti"
@@ -497,6 +447,6 @@
     },
     "name": "vsliveshare",
     "publisher": "ms-vsliveshare",
-    "version": "1.0.3046"
+    "version": "1.0.3071"
   }
 ]
